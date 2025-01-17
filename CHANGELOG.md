@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+# 1.0.0 (2025-01-17)
+
+
+### Features
+
+* setup kubeadm ([#1](https://github.com/duyluann/k8s-iac/issues/1)) ([f9b8813](https://github.com/duyluann/k8s-iac/commit/f9b881353f95e715165c2c3f8158439563c79e93))
+
 # [1.5.0](https://github.com/duyluann/github-repo-template/compare/v1.4.0...v1.5.0) (2024-09-22)
 
 
