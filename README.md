@@ -1,1 +1,1 @@
-Inspired by [kubeadm-script](shttps://github.com/techiescamp/kubeadm-scripts)
+Inspired by [kubeadm-script](https://github.com/techiescamp/kubeadm-scripts)
