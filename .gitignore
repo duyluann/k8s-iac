@@ -27,3 +27,8 @@ coverage/*
 
 # Personal files
 README.personal.md
+
+# Terraform
+terraform/aws/.terraform/
+terraform/aws/terraform.tfstate
+terraform/aws/terraform.tfstate.backup

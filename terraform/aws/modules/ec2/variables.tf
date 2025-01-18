@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "us-west-2"
+  region = "ap-southeast-1"
 }
 
 variable "instance_name" {
@@ -76,4 +76,3 @@ variable "outbound_cidr" {
   type    = list(string)
   default = ["10.2.20.0/22", "10.2.28.0/22", "10.2.24.0/22"]
 }
-

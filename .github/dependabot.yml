@@ -8,3 +8,12 @@ updates:
     commit-message:
       prefix: "chore"
       include: "scope"
+
+  # Maintain dependencies for Terraform
+  - package-ecosystem: "terraform"
+    directory: "/terraform/aws"
+    schedule:
+      interval: "daily"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
