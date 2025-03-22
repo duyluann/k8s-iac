@@ -7,6 +7,8 @@
         "streetsidesoftware.code-spell-checker",
         "pkief.material-icon-theme",
         "equinusocio.vsc-material-theme",
-        "shardulm94.trailing-spaces"
+        "shardulm94.trailing-spaces",
+        "raunofreiberg.vesper",
+        "miguelsolorio.symbols"
     ]
 }
